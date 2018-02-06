@@ -16,6 +16,9 @@ public class JavaApplication32 {
      */
     public static void main(String[] args) {
         // TODO code application logic here4544
+        
+        
+    ClassA a= new ClassA();
     }
     
 }
